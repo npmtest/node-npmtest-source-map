@@ -1,7 +1,7 @@
 # test coverage for  [source-map (v0.5.6)](https://github.com/mozilla/source-map)  [![npm package](https://img.shields.io/npm/v/npmtest-source-map.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-source-map) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-source-map.svg)](https://travis-ci.org/npmtest/node-npmtest-source-map)
 #### Generates and consumes source maps
 
-[![NPM](https://nodei.co/npm/source-map.png?downloads=true)](https://www.npmjs.com/package/source-map)
+[![NPM](https://nodei.co/npm/source-map.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/source-map)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-source-map/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-source-map/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-source-map/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-source-map/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-source-map/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-source-map/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-source-map/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-source-map/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-source-map/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-source-map/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-source-map%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-source-map/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-source-map/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-source-map/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-source-map/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-source-map%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-source-map/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-source-map/build/test-report.html](https://npmtest.github.io/node-npmtest-source-map/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-source-map/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-source-map/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-source-map/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-source-map/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-source-map/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-source-map/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-source-map/build/screenCapture.npmPackageListing.svg)
 
@@ -27,156 +33,119 @@
 
 {
     "author": {
-        "name": "Nick Fitzgerald",
-        "email": "nfitzgerald@mozilla.com"
+        "name": "Nick Fitzgerald"
     },
     "bugs": {
         "url": "https://github.com/mozilla/source-map/issues"
     },
     "contributors": [
         {
-            "name": "Tobias Koppers",
-            "email": "tobias.koppers@googlemail.com"
+            "name": "Tobias Koppers"
         },
         {
-            "name": "Duncan Beevers",
-            "email": "duncan@dweebd.com"
+            "name": "Duncan Beevers"
         },
         {
-            "name": "Stephen Crane",
-            "email": "scrane@mozilla.com"
+            "name": "Stephen Crane"
         },
         {
-            "name": "Ryan Seddon",
-            "email": "seddon.ryan@gmail.com"
+            "name": "Ryan Seddon"
         },
         {
-            "name": "Miles Elam",
-            "email": "miles.elam@deem.com"
+            "name": "Miles Elam"
         },
         {
-            "name": "Mihai Bazon",
-            "email": "mihai.bazon@gmail.com"
+            "name": "Mihai Bazon"
         },
         {
-            "name": "Michael Ficarra",
-            "email": "github.public.email@michael.ficarra.me"
+            "name": "Michael Ficarra"
         },
         {
-            "name": "Todd Wolfson",
-            "email": "todd@twolfson.com"
+            "name": "Todd Wolfson"
         },
         {
-            "name": "Alexander Solovyov",
-            "email": "alexander@solovyov.net"
+            "name": "Alexander Solovyov"
         },
         {
-            "name": "Felix Gnass",
-            "email": "fgnass@gmail.com"
+            "name": "Felix Gnass"
         },
         {
-            "name": "Conrad Irwin",
-            "email": "conrad.irwin@gmail.com"
+            "name": "Conrad Irwin"
         },
         {
-            "name": "usrbincc",
-            "email": "usrbincc@yahoo.com"
+            "name": "usrbincc"
         },
         {
-            "name": "David Glasser",
-            "email": "glasser@davidglasser.net"
+            "name": "David Glasser"
         },
         {
-            "name": "Chase Douglas",
-            "email": "chase@newrelic.com"
+            "name": "Chase Douglas"
         },
         {
-            "name": "Evan Wallace",
-            "email": "evan.exe@gmail.com"
+            "name": "Evan Wallace"
         },
         {
-            "name": "Heather Arthur",
-            "email": "fayearthur@gmail.com"
+            "name": "Heather Arthur"
         },
         {
-            "name": "Hugh Kennedy",
-            "email": "hughskennedy@gmail.com"
+            "name": "Hugh Kennedy"
         },
         {
-            "name": "David Glasser",
-            "email": "glasser@davidglasser.net"
+            "name": "David Glasser"
         },
         {
-            "name": "Simon Lydell",
-            "email": "simon.lydell@gmail.com"
+            "name": "Simon Lydell"
         },
         {
-            "name": "Jmeas Smith",
-            "email": "jellyes2@gmail.com"
+            "name": "Jmeas Smith"
         },
         {
-            "name": "Michael Z Goddard",
-            "email": "mzgoddard@gmail.com"
+            "name": "Michael Z Goddard"
         },
         {
-            "name": "azu",
-            "email": "azu@users.noreply.github.com"
+            "name": "azu"
         },
         {
-            "name": "John Gozde",
-            "email": "john@gozde.ca"
+            "name": "John Gozde"
         },
         {
-            "name": "Adam Kirkton",
-            "email": "akirkton@truefitinnovation.com"
+            "name": "Adam Kirkton"
         },
         {
-            "name": "Chris Montgomery",
-            "email": "christopher.montgomery@dowjones.com"
+            "name": "Chris Montgomery"
         },
         {
-            "name": "J. Ryan Stinnett",
-            "email": "jryans@gmail.com"
+            "name": "J. Ryan Stinnett"
         },
         {
-            "name": "Jack Herrington",
-            "email": "jherrington@walmartlabs.com"
+            "name": "Jack Herrington"
         },
         {
-            "name": "Chris Truter",
-            "email": "jeffpalentine@gmail.com"
+            "name": "Chris Truter"
         },
         {
-            "name": "Daniel Espeset",
-            "email": "daniel@danielespeset.com"
+            "name": "Daniel Espeset"
         },
         {
-            "name": "Jamie Wong",
-            "email": "jamie.lf.wong@gmail.com"
+            "name": "Jamie Wong"
         },
         {
-            "name": "Eddy Bruël",
-            "email": "ejpbruel@mozilla.com"
+            "name": "Eddy Bruël"
         },
         {
-            "name": "Hawken Rives",
-            "email": "hawkrives@gmail.com"
+            "name": "Hawken Rives"
         },
         {
-            "name": "Gilad Peleg",
-            "email": "giladp007@gmail.com"
+            "name": "Gilad Peleg"
         },
         {
-            "name": "djchie",
-            "email": "djchie.dev@gmail.com"
+            "name": "djchie"
         },
         {
-            "name": "Gary Ye",
-            "email": "garysye@gmail.com"
+            "name": "Gary Ye"
         },
         {
-            "name": "Nicolas Lalevée",
-            "email": "nicolas.lalevee@hibnet.org"
+            "name": "Nicolas Lalevée"
         }
     ],
     "dependencies": {},
@@ -207,21 +176,17 @@
     "main": "./source-map.js",
     "maintainers": [
         {
-            "name": "mozilla-devtools",
-            "email": "mozilla-developer-tools@googlegroups.com"
+            "name": "mozilla-devtools"
         },
         {
-            "name": "mozilla",
-            "email": "dherman@mozilla.com"
+            "name": "mozilla"
         },
         {
-            "name": "nickfitzgerald",
-            "email": "fitzgen@gmail.com"
+            "name": "nickfitzgerald"
         }
     ],
     "name": "source-map",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+ssh://git@github.com/mozilla/source-map.git"
