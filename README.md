@@ -1,4 +1,7 @@
-# test coverage for  [source-map (v0.5.6)](https://github.com/mozilla/source-map)  [![npm package](https://img.shields.io/npm/v/npmtest-source-map.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-source-map) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-source-map.svg)](https://travis-ci.org/npmtest/node-npmtest-source-map)
+# npmtest-source-map
+
+#### basic test coverage for  [source-map (v0.5.6)](https://github.com/mozilla/source-map)  [![npm package](https://img.shields.io/npm/v/npmtest-source-map.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-source-map) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-source-map.svg)](https://travis-ci.org/npmtest/node-npmtest-source-map)
+
 #### Generates and consumes source maps
 
 [![NPM](https://nodei.co/npm/source-map.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/source-map)
